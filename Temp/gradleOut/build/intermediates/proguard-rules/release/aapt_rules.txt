@@ -1,0 +1,10 @@
+# Referenced at D:\Unity Projects\Circlescape\Temp\gradleOut\build\intermediates\merged_manifests\release\AndroidManifest.xml:78
+-keep class com.unity3d.ads.adunit.AdUnitActivity { <init>(); }
+# Referenced at D:\Unity Projects\Circlescape\Temp\gradleOut\build\intermediates\merged_manifests\release\AndroidManifest.xml:93
+-keep class com.unity3d.ads.adunit.AdUnitSoftwareActivity { <init>(); }
+# Referenced at D:\Unity Projects\Circlescape\Temp\gradleOut\build\intermediates\merged_manifests\release\AndroidManifest.xml:83
+-keep class com.unity3d.ads.adunit.AdUnitTransparentActivity { <init>(); }
+# Referenced at D:\Unity Projects\Circlescape\Temp\gradleOut\build\intermediates\merged_manifests\release\AndroidManifest.xml:88
+-keep class com.unity3d.ads.adunit.AdUnitTransparentSoftwareActivity { <init>(); }
+# Referenced at D:\Unity Projects\Circlescape\Temp\gradleOut\build\intermediates\merged_manifests\release\AndroidManifest.xml:43
+-keep class com.unity3d.player.UnityPlayerActivity { <init>(); }
